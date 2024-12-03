@@ -10,9 +10,11 @@ View the complete instructions at [Community codelabs page](https://community.vn
 Createa a new file in users. The file name can be your roll_number.text
 
 Example:
+```
 touch users/99071a0508.txt
 
 cat >> users/99071a0508.txt
+```
 
 [Control+D]
 
